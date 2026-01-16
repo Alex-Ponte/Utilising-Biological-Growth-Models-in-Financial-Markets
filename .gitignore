@@ -205,3 +205,39 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# =========================
+# Research / Quant Workflow
+# =========================
+
+# Raw & derived data
+data/
+raw_data/
+processed_data/
+
+# Results & outputs
+results/
+outputs/
+figures/
+plots/
+
+# Serialized models / simulations
+*.pkl
+*.joblib
+*.h5
+*.npy
+*.npz
+
+# Backtest / experiment logs
+logs/
+*.log
+
+# Temporary experiments
+scratch/
+tmp/
+
+# Excel / CSV outputs (keep examples only, not full datasets)
+*.csv
+*.xlsx
+
+# PDFs generated from code (keep authored docs only)
+generated_docs/
