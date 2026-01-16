@@ -1,5 +1,6 @@
 Beverton-Holt Model Investigation:
-- [`models/logistic_Beverton-Holt.py`](models/logistic_Beverton-Holt.py)
+- [`logistic_Beverton-Holt/logistic_Beverton-Holt.py`](logistic_Beverton-Holt/logistic_Beverton-Holt.py)
+
 
 Ricker Model Investigation:
 - [`models/logistic_Ricker.py`](models/logistic_Ricker.py)
