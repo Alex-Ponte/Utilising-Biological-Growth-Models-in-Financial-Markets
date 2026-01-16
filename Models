@@ -1,0 +1,5 @@
+models/
+├── logistic_beverton_holt.py
+├── logistic_ricker.py
+├── logistic_hassell.py
+├── logistic_k_adjusted_r.py
