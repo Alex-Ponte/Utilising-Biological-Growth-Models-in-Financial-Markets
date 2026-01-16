@@ -8,4 +8,4 @@ Hassell Model Investigation:
 - [`Hassell.py`](Hassell.py)
 
 Self Made Logistic Growth Model:
-- [`K-adjusted-R.py`](K-adjusted-R.py)
+- [`K_adjusted_R.py`](K_adjusted_R.py)
