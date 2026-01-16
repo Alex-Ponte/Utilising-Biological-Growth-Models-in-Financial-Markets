@@ -1,5 +1,11 @@
-### Discrete-Time Logistic Model
+Beverton-Holt Model Investigation:
+- [`models/logistic_Bevrton-Holt.py`](models/logistic_Beverton-Holt.py)
 
-Implementation:
-- [`models/logistic_discrete.py`](models/logistic_discrete.py)
+Ricker Model Investigation:
+- [`models/logistic_Ricker.py`](models/logistic_Ricker.py)
 
+Hassell Model Investigation:
+- [`models/logistic_Hassell.py`](models/logistic_Hassell.py)
+
+Self Made Logistic Growth Model:
+- [`models/logistic_K-adjusted-R.py`](models/logistic_K-adjusted-R.py)
