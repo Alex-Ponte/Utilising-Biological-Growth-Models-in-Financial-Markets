@@ -1,11 +1,11 @@
 Beverton-Holt Model Investigation:
-- [`logistic_Beverton-Holt.py`](logistic_Beverton-Holt.py)
+- [`Beverton-Holt.py`](Beverton-Holt.py)
 
 Ricker Model Investigation:
-- [`models/logistic_Ricker.py`](models/logistic_Ricker.py)
+- [`Ricker.py`](Ricker.py)
 
 Hassell Model Investigation:
-- [`models/logistic_Hassell.py`](models/logistic_Hassell.py)
+- [`Hassell.py`](Hassell.py)
 
 Self Made Logistic Growth Model:
-- [`models/logistic_K-adjusted-R.py`](models/logistic_K-adjusted-R.py)
+- [`K-adjusted-R.py`](K-adjusted-R.py)
