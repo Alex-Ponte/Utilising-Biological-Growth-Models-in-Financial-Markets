@@ -32,7 +32,7 @@ I used 4 different definitions for C:
   2. C = (universe market cap - specific stock's market cap)/Universe market cap
          - This means as the stock has a greater share of the universe the competiive                 indice is lowered since there is less competition as it controls more of the               market
   3. C = 1-CPI
-         - As inflation rates are greater there is greater populatun increases as there is            decreased monetary competition
+         - As inflation rates are greater there is greater population increases as there is            decreased monetary competition
   4. C = 1-Buffet Indicator
          - This indicates more money in stock market means lower competition so lower C
 
